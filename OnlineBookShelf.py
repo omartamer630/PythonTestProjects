@@ -1,8 +1,6 @@
 #Online Book
 import time
-user_credentials = {
-    "ahmed": "ahmed123"
-}
+user_credentials = {}
 
 def add_user(username, password):
     user_credentials[username] = password
