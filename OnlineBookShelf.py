@@ -9,7 +9,7 @@ while condition in ["Yes","Y"]:
 
   if storage > 0 :
 
-    print(f"You Have {storage} Storage for Books")
+    print(f"You Have {storage} Storage Left for Books")
 
     bookShelf[index] = input("Please enter your book name :")
 
